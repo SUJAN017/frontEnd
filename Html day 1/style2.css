@@ -1,0 +1,20 @@
+h1{
+    color: brown;
+    text-align: center;
+}
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 30px;
+}
+#Paragraph1{
+    font-family: fantasy;
+    font-size: larger;
+}
+.sujanX{
+    color: rgb(203, 203, 18);
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 3px solid;border-color: blue;
+    padding: 200px;
+    margin: 400px;
+}
